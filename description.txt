@@ -1,0 +1,73 @@
+<h1>NurFashion – Modern eCommerce Figma UI Template</h1>
+<p>Create powerful and eCommerce sites with NurFashion – the most complete multipurpose for any type of eCommerce websites. NurFashion – Modern eCommerce Figma UI Template. You can use the template for fashion & clothing and fluid UX will surely create an
+    online shop experience that your customers will love.</p>
+<br/>
+<p>Based on 1920px Grid System, and it’s also easy to customize. It has 35 Screens in layered and organized elements. We designed all pages for web and mobile for you. You can customize it very easily to fit your business needs.</p>
+<br/>
+
+<h2>Template Features</h2>
+<hr/>
+<ul>
+    <li>35 Unique Artboards</li>
+    <li>Auto Layout & Variants</li>
+    <li>01 Unique Home Page Layouts</li>
+    <li>Easy and 100% customizable Figma files</li>
+    <li>Dropdown Menu</li>
+    <li>Product list and product details pages for mobile for you</li>
+    <li>Fully Vector & Customizable</li>
+    <li>Based on Bootstrap 1920px Grid System</li>
+    <li>Full width: 1920px</li>
+    <li>Well Organized Layers</li>
+    <li>All layer has been named and grouped properly</li>
+    <li>Vector icons</li>
+    <li>Creative and unique design</li>
+    <li>Easy to Find Artboards, Folders, Layers, Components</li>
+    <li>Based on Figma Styles and Components</li>
+    <li>Amazing vector and icons</li>
+    <li>Minimal & Modern Design</li>
+</ul>
+
+<h2>Figma File Pages</h2>
+<hr/>
+<ul>
+    <li>Home page</li>
+    <li>Product list page</li>
+    <li>Product details page</li>
+    <li>Product Description page</li>
+    <li>Product Specification page</li>
+    <li>Product Reviews Page</li>
+    <li>Cart Page</li>
+    <li>Checkout page</li>
+    <li>Account Information page</li>
+    <li>Order History page</li>
+    <li>Order Details page</li>
+    <li>Wishlist page</li>
+    <li>Forgot Password page</li>
+    <li>New Password Page</li>
+    <li>Login Page</li>
+    <li>Signup Page</li>
+    <li>Blog page</li>
+</ul>
+
+<h2>Sources and Credits</h2>
+<hr/>
+<p>To create that layout I used fonts:</p>
+<ul>
+    <li><a target="_blank" href="https://www.fontshare.com/fonts/neco">Neco</a></li>
+    <li><a target="_blank" href="https://www.fontshare.com/fonts/general-sans">General sans</a></li>
+</ul>
+
+<p>Icons used in the template:</p>
+<ul>
+    <li><a target="_blank" href="http://www.flaticon.com/">Flaticons</a></li>
+</ul>
+
+<p>Images Used:</p>
+<ul>
+    <li><a target="_blank" href="https://www.freepik.com/">Freepik</a></li>
+    <li><a target="_blank" href="http://www.google.com/">Google</a></li>
+</ul>
+
+<h2>Note</h2>
+<hr/>
+<p><mark><strong>All images are just used for preview purpose only and NOT included in the final purchase files. Please, don’t forget to rate this item.</strong></mark></p>
